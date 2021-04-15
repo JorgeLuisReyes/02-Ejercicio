@@ -11,7 +11,7 @@ import { Pages404Component } from './pages404/pages404.component';
 @NgModule({
   declarations: [
     AppComponent,
-    Pages404Component, 
+    Pages404Component,
   ],
   imports: [
     BrowserModule,
